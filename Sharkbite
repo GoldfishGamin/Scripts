@@ -23,5 +23,3 @@ btns:Seperator()
 btns:Button("Infinite Yield", function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 DiscordLib:Notification("Notification", "Infinite Yield Opened", "Ok!")
-
-win:Server("Main", "http://www.roblox.com/asset/?id=6031075938")
